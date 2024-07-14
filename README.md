@@ -10,7 +10,7 @@ sqlite3 , mongodb
 * لغات وصف البيانات الي اعرفها <br>
 json xml csv
 * من ناحية التقنيات والفريم ووركس اعرف: <br>
-Qt .NET_maui .NET tauri react.js OpenCV
+Qt .NET_maui .NET tauri react.js OpenCV java-android-dev
 blazor 
 
 *
